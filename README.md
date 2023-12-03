@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoang-phuc3123&label=Profile%20views&color=0e75b6&style=flat" alt="hoang-phuc3123" /> </p>
 
-- 🔭 I’m currently studing at [FPT University](https://daihoc.fpt.edu.vn/)
+- 🔭 I’m currently studying at [FPT University](https://daihoc.fpt.edu.vn/)
 
 - 📫 Contact me at **phucnhse171734@fpt.edu.vn**
   
